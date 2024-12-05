@@ -35,10 +35,10 @@
 
 
 
-#
-git init
+### 깃 
+git init  깃 초기화
 git add READMD.md
 git commit -m "😉리액트 첫 커밋"
 git branch -M main
-git remote add origin  https://github.com/webstoryboy/port2023-react.git
+git remote add origin  https://github.com/caseycasey859/port2023-react.git
 git push -u origin main
